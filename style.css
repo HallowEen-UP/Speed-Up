@@ -486,8 +486,8 @@ img {
 	transition: color .3s;
 }
 .nav__logo img{
-	width: 125px;
-  margin-top: 16px;
+	width: 160px;
+  margin-top: -4px;
   margin-left: -10px;
 }
 .nav__logo:hover{
